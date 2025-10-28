@@ -3,7 +3,7 @@
 1. **Aim:** Apply Lemmatization and Stemming using the Porter Stemmer.
    
 2. **Requirements:**
-    * Computer system with an intel i3/i5 CPU or above, and 4GB of ram or above.
+    * Computer system with an intel core i3/i5 CPU or above, and 4GB of ram or above.
     * Python 3.7 or above
     * nltk library
       
@@ -40,6 +40,7 @@ lemmatized words: ['run', 'fly', 'easily', 'fairly']
 1. **Aim:** Apply Lemmatization and Stemming using the Lancaster Stemmer.
    
 2. **Requirements:**
+    * Computer system with an intel core i3/i5 CPU or above, and 4GB of ram or above.
     * Python 3.7 or above
     * nltk library
       
@@ -76,6 +77,7 @@ lemmatized words: ['run', 'fly', 'easily', 'fairly']
 1. **Aim:** Apply lemmatization and stemming using the Snowball Stemmer.
    
 2. **Requirements:**
+    * Computer system with an intel core i3/i5 CPU or above, and 4GB of ram or above.
     * Python 3.7 or above
     * nltk library
       
