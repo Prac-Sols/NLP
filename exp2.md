@@ -57,7 +57,7 @@ Words using nltk: ['Welcome', 'to', 'NLP', '.', 'This', 'is', 'sentence', 'segme
 ```
 5. **Conclusion:**
    
-   Successfully implemented Python program for word segmentation using the re and nltk.
+   Successfully implemented Python program for word segmentation using re and nltk.
 
 ### 6. Questions:
 
