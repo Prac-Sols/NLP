@@ -3,6 +3,7 @@
 1. **Aim:** Write a program for Sentence Segmentation Techniques.
    
 2. **Requirements:**
+    * Computer system with an intel i3/i5 CPU or above, and 4GB of ram or above.
     * Python 3.7 or above
     * nltk library
       
@@ -29,6 +30,7 @@ print("Sentences:", sentences)
 1. **Aim:** Write a program for Word Segmentation using Re and nltk.
    
 2. **Requirements:**
+    * Computer system with an intel i3/i5 CPU or above, and 4GB of ram or above.
     * Python 3.7 or above
     * nltk library
     * re module
