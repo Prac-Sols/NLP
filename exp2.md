@@ -1,9 +1,9 @@
-## EXP 2
-### i) Sentence Segmentation Techniques:
+# EXP 2
+## i) Sentence Segmentation Techniques:
 1. **Aim:** Write a program for Sentence Segmentation Techniques.
    
 2. **Requirements:**
-    * Computer system with an intel i3/i5 CPU or above, and 4GB of ram or above.
+    * Computer system with an intel core i3/i5 CPU or above, and 4GB of ram or above.
     * Python 3.7 or above
     * nltk library
       
@@ -26,11 +26,11 @@ print("Sentences:", sentences)
    
    Successfully implemented Python program for sentence segmentation.
 
-### ii) Word Segmentation.
+## ii) Word Segmentation.
 1. **Aim:** Write a program for Word Segmentation using Re and nltk.
    
 2. **Requirements:**
-    * Computer system with an intel i3/i5 CPU or above, and 4GB of ram or above.
+    * Computer system with an intel core i3/i5 CPU or above, and 4GB of ram or above.
     * Python 3.7 or above
     * nltk library
     * re module
