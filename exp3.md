@@ -9,8 +9,7 @@
 3. **Program:**
 ```python
 import nltk
-from nltk.stem import PorterStemmer
-from nltk.stem import WordNetLemmatizer
+from nltk.stem import PorterStemmer, WordNetLemmatizer
 nltk.download('wordnet')
 nltk.download('omw-1.4')
 
@@ -46,8 +45,7 @@ lemmatized words: ['run', 'fly', 'easily', 'fairly']
 3. **Program:**
 ```python
 import nltk
-from nltk.stem import LancasterStemmer
-from nltk.stem import WordNetLemmatizer
+from nltk.stem import LancasterStemmer, WordNetLemmatizer
 nltk.download('wordnet')
 nltk.download('omw-1.4')
 
@@ -83,8 +81,7 @@ lemmatized words: ['run', 'fly', 'easily', 'fairly']
 3. **Program:**
 ```python
 import nltk
-from nltk.stem import SnowballStemmer
-from nltk.stem import WordNetLemmatizer
+from nltk.stem import SnowballStemmer, WordNetLemmatizer
 nltk.download('wordnet')
 nltk.download('omw-1.4')
 
