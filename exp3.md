@@ -3,10 +3,11 @@
 1. **Aim:** Apply Lemmatization and Stemming using the Porter Stemmer.
    
 2. **Requirements:**
+    * Computer system with an intel i3/i5 CPU or above, and 4GB of ram or above.
     * Python 3.7 or above
     * nltk library
       
-3. **Program:**
+4. **Program:**
 ```python
 import nltk
 from nltk.stem import PorterStemmer, WordNetLemmatizer
