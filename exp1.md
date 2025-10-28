@@ -1,4 +1,3 @@
-# NLP
 ## EXP 1
 ### Using the Brown Corpus:
 1. **Aim:** Implement a program to use the Brown corpus.
