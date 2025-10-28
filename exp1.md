@@ -3,7 +3,7 @@
 1. **Aim:** Implement a program to use the Brown corpus.
    
 2. **Requirements:**
-    * Computer system with an intel i3/i5 CPU or above, and 4GB of ram or above.
+    * Computer system with an intel core i3/i5 CPU or above, and 4GB of ram or above.
     * Python 3.7 or above
     * nltk library
       
@@ -30,7 +30,7 @@ print(words[:10])
 1. **Aim:** Implement a program to use the Penn Treebank Corpus.
    
 2. **Requirements:**
-    * Computer system with an intel i3/i5 CPU or above, and 4GB of ram or above.
+    * Computer system with an intel core i3/i5 CPU or above, and 4GB of ram or above.
     * Python 3.7 or above
     * nltk library
       
