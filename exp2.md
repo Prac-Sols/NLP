@@ -62,8 +62,7 @@ Words using nltk: ['Welcome', 'to', 'NLP', '.', 'This', 'is', 'sentence', 'segme
 ### 6. Questions:
 
 Q1. **Split the text into word and sentence segmentation.  
-Text: “Hello Good Morning! Today is my NlP practical and I am very tensed"**
-Hello Good Morning!
+Text: “Hello Good Morning! Today is my NLP practical and I am very tensed"**
 
 Sentence segmentation:  
 1. Hello Good Morning!
