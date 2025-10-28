@@ -22,7 +22,7 @@ print(words[:10])
    ```['Thirty-three', 'Scotty', 'did', 'not', 'go', 'back', 'to', 'school', '.', 'His']```
 5. **Conclusion:**
    
-   Successfully implemented program Python program using the Brown Corpus.
+   Successfully implemented Python program using the Brown Corpus.
    
 
 ### Using the Penn Treebank Corpus:
@@ -62,15 +62,14 @@ print(treebank.parsed_sents('wsj_0001.mrg')[0])
 ```
 5. **Conclusion:**
    
-   Successfully implemented program Python program using the Brown Corpus.
+   Successfully implemented Python program using the Brown Corpus.
 
 ### 6. Questions:
    
    **Q1. Define brown corpus. What’s the main feature of brown corpus?**
    
-   The Brown Corpus is a one-million-word collection of American English texts compiled at Brown University in 1961 by Kucera and Francis.
-   
-   main feature: It is balanced, containing 500 samples from diverse genres (news, fiction, academic writing, etc.) to represent general written English of the 1960s.
+   * The Brown Corpus is a one-million-word collection of American English texts compiled at Brown University in 1961 by Kucera and Francis.  
+   * main feature: It is balanced, containing 500 samples from diverse genres (news, fiction, academic writing, etc.) to represent general written English of the 1960s.
    
    **Q2. What's the difference between brown corpus and penn treebank corpus?**
    
