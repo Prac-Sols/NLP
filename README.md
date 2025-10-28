@@ -21,7 +21,7 @@ print(words[:10])
 4. **Output:**
    
    ```['Thirty-three', 'Scotty', 'did', 'not', 'go', 'back', 'to', 'school', '.', 'His']```
-6. **Conclusion:**
+5. **Conclusion:**
    
    Successfully implemented program Python program using the Brown Corpus.
    
@@ -64,10 +64,23 @@ print(treebank.parsed_sents('wsj_0001.mrg')[0])
 5. **Conclusion:**
    
    Successfully implemented program Python program using the Brown Corpus.
-6. Questions:
-Q1. Define brown corpus. What’s the main feature of brown corpus?
-Ans. The Brown Corpus is a one-million-word collection of American English texts compiled at Brown University in 1961 by Kucera and Francis.
-Main feature: It is balanced, containing 500 samples from diverse genres (news, fiction, academic writing, etc.) to represent general written English of the 1960s.
+
+### 6. Questions:
+   
+   **Q1. Define brown corpus. What’s the main feature of brown corpus?**
+   
+   The Brown Corpus is a one-million-word collection of American English texts compiled at Brown University in 1961 by Kucera and Francis.
+   main feature: It is balanced, containing 500 samples from diverse genres (news, fiction, academic writing, etc.) to represent general written English of the 1960s.
+   
+   **Q2. What's the difference between brown corpus and penn treebank corpus?**
+   
+   | **Aspect**        | **Brown Corpus**         | **Penn Treebank**                 |
+| ----------------- | ------------------------ | --------------------------------- |
+| **Year / Origin** | 1961, Brown University   | 1990s, University of Pennsylvania |
+| **Size**          | ~1 million words         | ~4.5 million words                |
+| **Content**       | Balanced written English | Mainly Wall Street Journal text   |
+| **Purpose**       | Study of general English | NLP parser training               |
+
 
 ## EXP 2
 ### USentence sEgmentation techniques:
