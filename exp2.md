@@ -41,7 +41,7 @@ import nltk
 import re
 nltk.download('punkt')
 
-text = "Welcome to NLP. This is sentence segmentation."
+text = "Welcome to NLP. This is word segmentation."
 
 # Word Segmentation using re
 words = re.findall(r'\b\w+\b', text)
@@ -54,8 +54,8 @@ print("Words using nltk:", words_nltk)
 4. **Output:**
    
 ```
-Words using re: ['Welcome', 'to', 'NLP', 'This', 'is', 'sentence', 'segmentation']
-Words using nltk: ['Welcome', 'to', 'NLP', '.', 'This', 'is', 'sentence', 'segmentation', '.']
+Words using re: ['Welcome', 'to', 'NLP', 'This', 'is', 'word', 'segmentation']
+Words using nltk: ['Welcome', 'to', 'NLP', '.', 'This', 'is', 'word', 'segmentation', '.']
 ```
 5. **Conclusion:**
    
