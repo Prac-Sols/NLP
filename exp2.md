@@ -76,4 +76,4 @@ Word segmentation:
 
 The library used for sentence tokenization is nltk.  
 installation command:  
-pip install nltk
+      pip install nltk
