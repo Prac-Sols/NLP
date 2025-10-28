@@ -39,7 +39,7 @@ lazy -> JJ
 dog -> NN
 ```
 
-5. **Conclusion:**
+5. **Conclusion:**  
    Successfully implemented Python program for POS tagging on the given text.
 
 6. **Questions:**
