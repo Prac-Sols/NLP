@@ -62,7 +62,7 @@ print(treebank.parsed_sents('wsj_0001.mrg')[0])
 ```
 5. **Conclusion:**
    
-   Successfully implemented Python program using the Brown Corpus.
+   Successfully implemented Python program using the Penn Treebank Corpus.
 
 ### 6. Questions:
    
